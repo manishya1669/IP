@@ -4,7 +4,7 @@ import emailjs from 'emailjs-com'
 const initialState = {
   name: '',
   email: '',
-  message: '',
+  message : '',
 }
 export const Contact = (props) => {
   const [{ name, email, message }, setState] = useState(initialState)

@@ -2,7 +2,7 @@ export const About = (props) => {
   return (
     <div id='about'>
       <div className='container'>
-        <div className='row'>
+        <div className='row '>
           <div className='col-xs-12 col-md-6'>
             {' '}
             <img src='https://images.unsplash.com/photo-1494832944834-a08818c634b0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cG92ZXJ0eXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60' className='img-responsive' alt='' />{' '}

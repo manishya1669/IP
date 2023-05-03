@@ -4,7 +4,7 @@ export const Navigation = (props) => {
       <div className='container'>
         <div className='navbar-header'>
           <button
-            type='button'
+            type=' button '
             className='navbar-toggle collapsed'
             data-toggle='collapse'
             data-target='#bs-example-navbar-collapse-1'

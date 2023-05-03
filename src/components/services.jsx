@@ -2,7 +2,7 @@ export const Services = (props) => {
   return (
     <div id='services' className='text-center'>
       <div className='container'>
-        <div className='section-title'>
+        <div className=' section-title'>
           <h2>Join Us</h2>
           <p>
           “One person can make a difference, and everyone should try.”
